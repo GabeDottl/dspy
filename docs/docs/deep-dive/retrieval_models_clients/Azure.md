@@ -1,5 +1,3 @@
-import AuthorDetails from '@site/src/components/AuthorDetails';
-
 # AzureAISearch
 
 A retrieval module that utilizes Azure AI Search to retrieve top passages for a given query.
